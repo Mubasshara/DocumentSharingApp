@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235252587490",
+    "project_id": "documentsharingapp-92e41",
+    "storage_bucket": "documentsharingapp-92e41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235252587490:android:0df2dbd17491bbc98337bb",
+        "android_client_info": {
+          "package_name": "com.example.documentsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkmJv1Iybf_MYjMhUr1V1Mx6z9WqKEmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
